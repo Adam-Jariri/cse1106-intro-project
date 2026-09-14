@@ -1,11 +1,16 @@
 # CSE 1106 
 
-## This is an intro project
+## Description
+This is an intro project
 
-## WSL terminal and Git hub
+## Technologies  
+WSL terminal and Git hub
 
-## By using git commands
+## How to run 
+By using git commands
 
-## how to use git hub and git commands such as Add, Commit, Pull, and Push
+## What I learned 
+how to use git hub and git commands such as Add, Commit, Pull, and Push
 
-## Hopefully I will get more comfortable with git hub and start using it to my benefit
+## Future improvements 
+Hopefully I will get more comfortable with git hub and start using it to my benefit
